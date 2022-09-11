@@ -1,0 +1,9 @@
+.rodape_social {   
+    display: flex;
+    justify-content: space-between;     
+    filter: invert(60%);
+    padding: 10px 0;
+    width: 4em;    
+    margin: 0 auto;
+}
+

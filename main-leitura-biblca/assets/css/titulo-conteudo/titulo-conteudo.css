@@ -1,0 +1,11 @@
+.titulo_conteudo {
+    display: flex;
+    justify-content: center;
+    background-color: #f7f7f7;
+    color: #3c3c3c;
+    border-radius: 10px;
+    margin: 1.2em auto;
+    padding: 5px 0.9em;   
+    text-transform: uppercase;font-size: 25px;    
+    width: 900px;
+}  

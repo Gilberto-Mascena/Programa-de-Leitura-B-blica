@@ -1,0 +1,11 @@
+.primeiro_semestre, .segundo_semestre {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    font-size: 12px;    
+    height: auto;
+    margin: 3em auto;
+    padding: 2em;
+    width: 900px;
+}
