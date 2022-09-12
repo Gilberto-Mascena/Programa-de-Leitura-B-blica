@@ -7,3 +7,8 @@
     margin: 0 auto;
 }
 
+.social__linkedin, .socila__github:hover {
+    cursor: pointer;    
+}
+
+
