@@ -49,6 +49,15 @@ label {
     font-size: 10px;
 }
 
-footer {
+.rodape {
    display: none;
+}
+
+footer::after{
+    content: url(../../img/my-github-pequeno.png);
+   display: flex;
+   justify-content: flex-end;
+   margin-right: 20px;
+   padding-bottom: 35px; 
+    
 }
